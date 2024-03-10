@@ -1,0 +1,14 @@
+{
+  "apim-request-id": "da31e563-beea-42e3-bbd5-7a9bb53af3df",
+  "content-length": "167",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "text": "a person's feet in a black and gold shoe",
+    "confidence": 0.7127835750579834
+  },
+  "metadata": {
+    "width": 736,
+    "height": 920
+  }
+}

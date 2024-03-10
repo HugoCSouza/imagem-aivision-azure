@@ -1,0 +1,14 @@
+{
+  "apim-request-id": "8f4acd08-c8f3-41d2-8344-3e7808890462",
+  "content-length": "176",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "text": "a yellow sports car driving through a wet street",
+    "confidence": 0.7702810168266296
+  },
+  "metadata": {
+    "width": 736,
+    "height": 1472
+  }
+}

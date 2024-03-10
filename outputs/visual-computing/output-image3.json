@@ -1,0 +1,14 @@
+{
+  "apim-request-id": "9d3a828e-6afc-40bb-a165-5c90e3213d1a",
+  "content-length": "153",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "text": "a person holding a planet",
+    "confidence": 0.6925774812698364
+  },
+  "metadata": {
+    "width": 736,
+    "height": 1594
+  }
+}

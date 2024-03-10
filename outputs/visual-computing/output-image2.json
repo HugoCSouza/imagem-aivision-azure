@@ -1,0 +1,14 @@
+{
+  "apim-request-id": "b6c38518-137e-4355-8ef7-3e41a5de357a",
+  "content-length": "166",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "text": "a group of football players on a field",
+    "confidence": 0.8178644180297852
+  },
+  "metadata": {
+    "width": 736,
+    "height": 1310
+  }
+}
