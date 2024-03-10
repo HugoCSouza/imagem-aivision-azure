@@ -1,0 +1,14 @@
+{
+  "apim-request-id": "822f96d6-3b47-4f49-a206-d25a720e1c76",
+  "content-length": "153",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "text": "a man holding up a trophy",
+    "confidence": 0.8940209150314331
+  },
+  "metadata": {
+    "width": 736,
+    "height": 1308
+  }
+}
