@@ -1,4 +1,6 @@
 # Passo-a-passo para utilizar o análise de imagem 4.0 com o AI Vision Service
+Caso você nunca tenha entrado em contato com o ambiente Azure, sugiro você começar por [este repositório](https://github.com/HugoCSouza/inicio-azure). Nele, eu ensino a configuração inicial do ambiente Azure para a criação de um modelo de Machine Learning.
+
 ## Primeiros passos
 Entre no portal do [Azure]([url](https://portal.azure.com/#home)https://portal.azure.com/#home), logue na sua conta microsoft, e ao abrir sua interface, clique em criar um recurso.
 ![criando um recurso](https://github.com/HugoCSouza/imagem-aivision-azure/assets/150296370/afaa8215-5a16-43e7-81f2-6c937887732c)
